@@ -1,6 +1,6 @@
 baseURL = "https://jpedrora.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje Pedro Ramos"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
