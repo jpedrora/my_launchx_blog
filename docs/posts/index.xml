@@ -18,5 +18,15 @@ Para mi la cultura de un profesional del software
  Respeto Confiaza Honestidad Dedicación  Esto es improtante para mi..</description>
     </item>
     
+    <item>
+      <title> Mi ruta de aprendizaje en Launc X</title>
+      <link>https://jpedrora.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 01 Mar 2000 00:00:00 +0000</pubDate>
+      
+      <guid>https://jpedrora.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola! Quiero contarte todo lo que he aprendido en este camino
+ Python Lógica de programación Jupyter Notebooks Command Line Git GitHub  </description>
+    </item>
+    
   </channel>
 </rss>
